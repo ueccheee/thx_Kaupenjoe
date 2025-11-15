@@ -20,7 +20,10 @@
 		],
 		"fabric-datagen": [
 			"com.example.ThxKaupenjoeDataGenerator"
-		]
+		],
+        "Client": [
+         "com.example.ThxKaupenjoeClient"
+        ]
 	},
 	"mixins": [
 		"thx-kaupenjoe.mixins.json"
